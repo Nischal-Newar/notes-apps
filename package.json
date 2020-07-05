@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "description": "creating notes-app application",
   "main": "app.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Nischal",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^3.0.0",
-    "validator": "^12.1.0",
-    "yargs": "^15.0.2"
+    "chalk": "^4.1.0",
+    "validator": "^13.1.1",
+    "yargs": "^15.4.0"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^2.0.5"
   }
 }
